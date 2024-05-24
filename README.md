@@ -1,5 +1,5 @@
 <h2>About Me... </h2>
- <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
+ <div style="display: flex; flex-direction: column;">
   - 👋 Hi, I’m a Developer and Mentor.
   - 👀 I’m interested in Programming.
   - 🌱 I’m currently working on some remote projects.
