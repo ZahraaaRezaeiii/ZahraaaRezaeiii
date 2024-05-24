@@ -5,6 +5,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love drawing, coding, and traveling.
 
+  <h1>Skills</h1>
+
 <div style="display: flex; flex-wrap: wrap;">
   <div style="background-color: red; padding: 50px; margin: 5px; border-radius: 5px;">
     <p>Skill 1</p>
