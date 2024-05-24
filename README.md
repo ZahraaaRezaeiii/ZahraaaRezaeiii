@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love drawing, coding, and traveling.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="background-color: red; padding: 10px; margin: 5px; border-radius: 5px;">
+  <div style="background-color: red; padding: 50px; margin: 5px; border-radius: 5px;">
     <p>Skill 1</p>
   </div>
   <div style="background-color: #00ccff; padding: 10px; margin: 5px; border-radius: 5px;">
