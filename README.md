@@ -1,11 +1,10 @@
 <h2>About Me... </h2>
- <div style="display: flex; flex-direction: column;">
-  - 👋 Hi, I’m a Developer and Mentor.
-  - 👀 I’m interested in Programming.
-  - 🌱 I’m currently working on some remote projects.
-  - 💞️ I’m looking to collaborate on collaborating on open source.
-  - 😄 Pronouns: She/Her
-  - ⚡ Fun fact: I love drawing, coding, and traveling.
+ - 👋 Hi, I’m a Developer and Mentor.
+ - 👀 I’m interested in Programming.
+ - 🌱 I’m currently working on some remote projects.
+ - 💞️ I’m looking to collaborate on collaborating on open source.
+ - 😄 Pronouns: She/Her
+ - ⚡ Fun fact: I love drawing, coding, and traveling.
 
 </div>
   <h2>Languages & Tools</h2>
